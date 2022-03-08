@@ -16,7 +16,7 @@ namespace Northwind.Business.Constants
         public static string ProductUpdated = "Ürün güncellendi";
         public static string ProductDeleted = "Ürün silindi";
         public static string ProductNameAlreadyExist = "Bu isimde zaten ürün var";
-        public static string CheckProductCountOfCategoryCorrect = "Check Product Count Of Category Correct";
+        public static string CheckProductCountOfCategoryCorrect = "Bir kategoride en fazla 15 ürün olabilir";
         public static string AuthorizationDenied = "Yetkiniz yok";
         public static string UserRegistered = "Kayıt gerçekleşti";
         public static string UserNotFound = "Kullanıcı bulunamadı";
